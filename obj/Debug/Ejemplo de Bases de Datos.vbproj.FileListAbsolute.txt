@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\obj\Debug\Ejemplo de Bases de Datos.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\obj\Debug\Ejemplo_de_Bases_de_Datos.FormPrincipal.resources
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\obj\Debug\Ejemplo_de_Bases_de_Datos.Resources.resources
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\obj\Debug\Ejemplo de Bases de Datos.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\obj\Debug\Ejemplo de Bases de Datos.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\bin\Debug\Ejemplo de Bases de Datos.exe.config
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\bin\Debug\Ejemplo de Bases de Datos.exe
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\bin\Debug\Ejemplo de Bases de Datos.pdb
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\bin\Debug\Ejemplo de Bases de Datos.xml
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\obj\Debug\Ejemplo de Bases de Datos.exe
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\obj\Debug\Ejemplo de Bases de Datos.xml
+C:\Users\oswal\source\repos\Ejemplo de Bases de Datos\obj\Debug\Ejemplo de Bases de Datos.pdb
