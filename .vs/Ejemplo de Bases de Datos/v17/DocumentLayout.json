@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0137150A-0BA6-450E-8200-7031EF50338C}|Ejemplo de Bases de Datos.vbproj|c:\\users\\oswal\\source\\repos\\ejemplo de bases de datos\\formprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0137150A-0BA6-450E-8200-7031EF50338C}|Ejemplo de Bases de Datos.vbproj|solutionrelative:formprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0137150A-0BA6-450E-8200-7031EF50338C}|Ejemplo de Bases de Datos.vbproj|C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\formprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0137150A-0BA6-450E-8200-7031EF50338C}|Ejemplo de Bases de Datos.vbproj|solutionrelative:formprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0137150A-0BA6-450E-8200-7031EF50338C}|Ejemplo de Bases de Datos.vbproj|C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0137150A-0BA6-450E-8200-7031EF50338C}|Ejemplo de Bases de Datos.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwCIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-13T02:31:55.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.vb",
+              "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\FormPrincipal.vb",
+              "RelativeDocumentMoniker": "FormPrincipal.vb",
+              "ToolTip": "C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\FormPrincipal.vb",
+              "RelativeToolTip": "FormPrincipal.vb",
+              "ViewState": "AgIAAHoAAAAAAAAAAADwv44AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-13T01:32:46.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\FormPrincipal.vb",
+              "RelativeDocumentMoniker": "FormPrincipal.vb",
+              "ToolTip": "C:\\Users\\oswal\\source\\repos\\Ejemplo de Bases de Datos\\FormPrincipal.vb [Design]",
+              "RelativeToolTip": "FormPrincipal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-13T01:21:05.034Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
